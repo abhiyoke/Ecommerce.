@@ -1,5 +1,5 @@
 import { create } from "zustand";
-import { round2 } from "../util";
+import { round2 } from "../utils";
 import { OrderItem } from "../models/OrderModel";
 import { persist} from "zustand/middleware";
 

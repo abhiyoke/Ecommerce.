@@ -1,7 +1,7 @@
 import AddToCart from '@/components/products/AddToCart';
 import data from '@/lib/data';
 import productService from '@/lib/services/productService';
-import { convertDocToObj } from '@/lib/util';
+import { convertDocToObj } from '@/lib/utils';
 import Image from 'next/image';
 import Link from 'next/link';
 
